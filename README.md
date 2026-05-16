@@ -9,21 +9,21 @@
   Free, open-source skills for Claude Code. Drop them into `~/.claude/skills/`
   and they extend what Claude can do for you.
   
-  - [ai-prompt-builder](https://github.com/nicolakharvey/ai-prompt-builder) —
-    Write generation-ready prompts for image and video AI tools
   - [nikki-logo-lab](https://github.com/nicolakharvey/nikki-logo-lab) —
     Strategy-first logo workflow: brief, execution, critique
-  - [hyperframes](https://github.com/nicolakharvey/hyperframes) —
+  - [nikki-prompt-lab](https://github.com/nicolakharvey/nikki-prompt-lab) —
+    Write generation-ready prompts for image and video AI tools
+  - [nikki-video-lab](https://github.com/nicolakharvey/nikki-video-lab) —
     Author HTML video compositions with GSAP animations and transitions
-  - [hyperframes-cli](https://github.com/nicolakharvey/hyperframes-cli) —
+  - [nikki-video-lab-cli](https://github.com/nicolakharvey/nikki-video-lab-cli) —
     CLI reference for HyperFrames: init, lint, inspect, preview, render, TTS
-  - [hyperframes-registry](https://github.com/nicolakharvey/hyperframes-registry) —
+  - [nikki-video-lab-registry](https://github.com/nicolakharvey/nikki-video-lab-registry) —
     Install and wire registry blocks and components into HyperFrames compositions
-  - [website-to-hyperframes](https://github.com/nicolakharvey/website-to-hyperframes) —
+  - [nikki-site-to-video](https://github.com/nicolakharvey/nikki-site-to-video) —
     Capture a website and produce a HyperFrames video from it
-  - [remotion-to-hyperframes](https://github.com/nicolakharvey/remotion-to-hyperframes) —
+  - [nikki-remotion-to-video](https://github.com/nicolakharvey/nikki-remotion-to-video) —
     Translate Remotion React compositions to HyperFrames HTML
-  - [gsap](https://github.com/nicolakharvey/gsap) —
+  - [nikki-gsap](https://github.com/nicolakharvey/nikki-gsap) —
     GSAP animation reference for HyperFrames compositions
   
   ## Her Frontier
