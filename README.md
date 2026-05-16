@@ -13,8 +13,18 @@
     Write generation-ready prompts for image and video AI tools
   - [logo-development](https://github.com/nicolakharvey/logo-development) —
     Strategy-first logo workflow: brief, execution, critique
-    
-  More on the way.
+  - [hyperframes](https://github.com/nicolakharvey/hyperframes) —
+    Author HTML video compositions with GSAP animations and transitions
+  - [hyperframes-cli](https://github.com/nicolakharvey/hyperframes-cli) —
+    CLI reference for HyperFrames: init, lint, inspect, preview, render, TTS
+  - [hyperframes-registry](https://github.com/nicolakharvey/hyperframes-registry) —
+    Install and wire registry blocks and components into HyperFrames compositions
+  - [website-to-hyperframes](https://github.com/nicolakharvey/website-to-hyperframes) —
+    Capture a website and produce a HyperFrames video from it
+  - [remotion-to-hyperframes](https://github.com/nicolakharvey/remotion-to-hyperframes) —
+    Translate Remotion React compositions to HyperFrames HTML
+  - [gsap](https://github.com/nicolakharvey/gsap) —
+    GSAP animation reference for HyperFrames compositions
   
   ## Her Frontier
   
