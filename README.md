@@ -11,8 +11,8 @@
   
   - [ai-prompt-builder](https://github.com/nicolakharvey/ai-prompt-builder) —
     Write generation-ready prompts for image and video AI tools
-  - [signal](https://github.com/nicolakharvey/signal) —
-    Strategy-first brand mark workflow: brief, execution, critique
+  - [nikki-logo-lab](https://github.com/nicolakharvey/nikki-logo-lab) —
+    Strategy-first logo workflow: brief, execution, critique
   - [hyperframes](https://github.com/nicolakharvey/hyperframes) —
     Author HTML video compositions with GSAP animations and transitions
   - [hyperframes-cli](https://github.com/nicolakharvey/hyperframes-cli) —
